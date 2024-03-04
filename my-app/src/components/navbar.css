@@ -1,0 +1,20 @@
+.navbar-class {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(207, 97, 113);
+    border: none;
+    justify-content: right;
+
+  }
+  
+  .link {
+    margin-left: 2vw;
+    font-size: x-large;
+    color: black;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: oblique;
+  font-variation-settings:
+    "slnt" 0;
+  }

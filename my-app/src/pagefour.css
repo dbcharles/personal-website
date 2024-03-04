@@ -1,0 +1,33 @@
+.page4 {
+    background-image: url('./assets/view.svg');
+    height: 45vh;
+    background-position-y: 100%;
+}
+
+.titlebox {
+    color: white;
+    display: flex;
+    justify-content: right;
+}
+
+.title4 {
+    margin-right: 20vw;
+    margin-top: 10vw;
+    font-size: 10vh;
+}
+
+.motivate {
+    font-size: 7vh;
+    color:black;
+    margin-top: 15vh;
+    margin-left: 7vh;
+}
+
+.k {
+    display: block;
+    margin-left: 8vw;
+    letter-spacing: .3vw;
+    font-size: 1.7vw;
+    line-height: 4vh;
+    width: 85vw;
+;}
